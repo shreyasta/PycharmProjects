@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>897</width>
+    <height>989</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="StudentCode">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>70</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Student code</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="StudentName">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>120</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Student name</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="HistoryMarks">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>170</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>History marks</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="GeographyMarks">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>220</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Geography marks</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Total">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>280</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Total</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Percentage">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>330</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Percentage</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditCode">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>80</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditName">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>130</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditHistorymarks">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>180</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditGeographyMarks">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>230</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditTotal">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>290</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditPercentage">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>340</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>420</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Click</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

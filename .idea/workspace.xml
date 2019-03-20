@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="656ee6e4-97c3-416c-b233-16c1a88150ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FACSUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFileOperations/separateASCBMP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/KeyPressEventExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/.idea/FACSUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FACSUI/.idea/FACSUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FACSUI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FACSUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU1just.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU1med.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU2just.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU2med.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU4just.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU4med.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU5just.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AU5med.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUApp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUApp.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUCheckboxSelect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUCheckboxSelect.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUImagesFrame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUNJust.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUNeutral.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUNeutralmed.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/AUNmed.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/Adding AUS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/Git FACSUI.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/GraphicImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/GraphicImage.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/ImageLoad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/ImageLoad.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/LoadEyes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/LoadImageAU.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/LoadImageSlider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/MenuBarExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/RoImage.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/RotateImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/RotateImageApp.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/RotateImgeImutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/RotatePill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/SliderLoad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/TestQt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/TrialRotate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/callFACSUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/callGraphicsView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/callImageLoad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/clickingFACS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/clickingFACS.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/demo.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/eyes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/loadImageTrial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/neutral.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/pill_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/python36.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/setIcon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/simpleGUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/testLoadImagePyQtOpenCV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FACSUI/trial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoTaggingTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoTaggingTool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/facsaugui/Loader/FileStringAsLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/facsaugui/Loader/FileStringAsLoader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/facsaugui/Viewer/ImageViewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/facsaugui/Viewer/ImageViewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleFileOperations/separateASCBMP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py" />
+        <option value="$PROJECT_DIR$/SimpleFileOperations/exercise1.py" />
+        <option value="$PROJECT_DIR$/SimpleFileOperations/separateASCBMP.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="614" />
+    <option name="width" value="1946" />
+    <option name="height" value="1392" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VideoTaggingTool" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exercise1">
+    <configuration name="AddingAUS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/SelectAUs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/SelectAUs/AddingAUS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenFileExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFileExamples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenFileSystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFileSystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimpleFileOperations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\OSlab-local-admin\PycharmProjects\SimpleFileOperations\separateASCBMP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise1" />
+        <item itemvalue="Python.AddingAUS" />
+        <item itemvalue="Python.OpenFileExamples" />
+        <item itemvalue="Python.OpenFileSystem" />
+        <item itemvalue="Python.OpenFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="656ee6e4-97c3-416c-b233-16c1a88150ca" name="Default Changelist" comment="" />
+      <created>1547656493993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547656493993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18754925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943925" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32943925" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18754925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943925" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32943925" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32943925" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/´SaveFile.py" />
+    <entry file="file://$PROJECT_DIR$/basicImageFunctions/chap1.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/facsaugui/Loader/FileStringAsLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFileExamples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFileSystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Anaconda3/envs/opencv-env/Lib/site-packages/PyQt5/uic/Loader/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/NewFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/RotateExample/TrialRotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/SelectAUs/AddingAUS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/SliderLoadImage/SliderExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/SliderLoadImage/ImageViewerTrial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/GraphicsView/callGraphicsView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/GraphicsView/GraphicImage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoTaggingTool/FACSAUGUI/src/samples/FileExamples/OpenFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFileOperations/separateASCBMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

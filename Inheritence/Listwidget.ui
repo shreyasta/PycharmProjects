@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QListWidget" name="intensityWidget">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>60</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Very Weak</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Weak</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Medium</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Strong</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Very Strong</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QListWidget" name="emotionWidget">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>60</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="selectionMode">
+    <enum>QAbstractItemView::MultiSelection</enum>
+   </property>
+   <property name="selectionBehavior">
+    <enum>QAbstractItemView::SelectItems</enum>
+   </property>
+   <property name="selectionRectVisible">
+    <bool>false</bool>
+   </property>
+   <item>
+    <property name="text">
+     <string>Happy</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Neutral</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Surprise</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Fear</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Disgust</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anger</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Sad</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QListWidget" name="resultWidget">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>320</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelIntensity">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>60</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Choose intensity:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelEmotions">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>60</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Choose emotions:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelResult">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>330</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>The resulting intensities and emotions are:</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
